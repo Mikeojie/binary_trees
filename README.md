@@ -258,9 +258,9 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Emmanuel Solomon</summary>
+    <summary>Okojie Micheal</summary>
     <ul>
-    <li><a href="https://www.github.com/Kis123mas">Github</a></li>
-    <li><a href="mailto:emmanuelezekielsolomon@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Mikeojie">Github</a></li>
+    <li><a href="mailto: okojiemicheal070@gmail.com">e-mail</a></li>
     </ul>
 </details>
